@@ -7,5 +7,4 @@ Otra de las funciones de VLSM es descentralizar las redes y de esta forma conseg
 
 https://es.wikipedia.org/wiki/M%C3%A1scaras_de_subred_de_tama%C3%B1o_variable
 
-En este programa se calcula automaticamente ingresando una direccion IP inicial y todas las posibles redes que se necesiten
-calculando la cantidad de IPs necesarias para cada uno de los dispositivos en la red.
+En este programa se calcula automaticamente las redes ingresando una direccion IP inicial y todas las posibles redes que se necesiten calculando la cantidad de IPs necesarias para cada uno de los dispositivos en la red.
